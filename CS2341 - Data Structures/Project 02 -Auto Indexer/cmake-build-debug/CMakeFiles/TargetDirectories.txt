@@ -1,0 +1,3 @@
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/cmake-build-debug/CMakeFiles/AutoIndexer.dir

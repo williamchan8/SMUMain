@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/cmake-build-debug

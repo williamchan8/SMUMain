@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSString.cpp
+DSString.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSString.h
+string
+-
+string.h
+-
+stdio.h
+-
+
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSString.h
+iostream
+-
+cstring
+-
+vector
+-
+DSVector.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSVector.h
+sstream
+-
+
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSVector.h
+iostream
+-
+
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/WordPagePair.cpp
+WordPagePair.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/WordPagePair.h
+
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/WordPagePair.h
+iostream
+-
+DSString.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSString.h
+
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/main.cpp
+iostream
+-
+fstream
+-
+DSVector.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSVector.h
+DSString.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/DSString.h
+WordPagePair.h
+/Users/williamchan/Desktop/Data Stuctures 2020/20s-pa02-autoindexer-williamchan8/WordPagePair.h
+ctype.h
+-
+stdio.h
+-
+
